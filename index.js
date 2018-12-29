@@ -12,6 +12,7 @@ function scuberGreetingForFeet(value) {
 };
 
 function ternaryCheckCity(city) {
+  const nyc 
   if (city = "NYC") {
     return "OK, sounds good."
   }

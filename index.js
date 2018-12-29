@@ -22,7 +22,7 @@ function switchOnCharmFromTip(tip) {
   switch (tip) {
     case 'generous':
       response = "Thank you so much.";
-    case 'cheap':
+    case 'not as generous':
       response = "Thank you.";
     case 'wow':
       reponse = "Bye.";

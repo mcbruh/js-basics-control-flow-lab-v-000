@@ -12,10 +12,6 @@ function scuberGreetingForFeet(value) {
 };
 
 function ternaryCheckCity(city) {
-  const nyc
-  if (city = nyc) {
-    return "OK, sounds good."
-  }
 }
 
 function switchOnCharmFromTip() {

@@ -25,6 +25,6 @@ function switchOnCharmFromTip(tip) {
     case 'cheap'
       response = "Thank you.";
     case 'wow'
-      reponse = "Bye."
+      reponse = "Bye.";
   };
 };

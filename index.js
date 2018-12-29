@@ -11,8 +11,11 @@ function scuberGreetingForFeet(value) {
   }
 };
 
-function ternaryCheckCity() {
-
+function ternaryCheckCity(city) {
+  switch (city) {
+    case "NYC":
+    return "OK, sounds good."
+  }
 }
 
 function switchOnCharmFromTip() {

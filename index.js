@@ -28,6 +28,7 @@ function switchOnCharmFromTip(tip) {
       break;
     case 'thanks for everything':
       reponse = "Bye.";
+      break;
   };
   return response;
 };
